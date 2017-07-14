@@ -1,6 +1,6 @@
-# my-project
+# liuyingji.me
 
-> A Vue.js project
+> A Vue Project
 
 ## Build Setup
 
