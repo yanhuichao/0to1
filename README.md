@@ -1,8 +1,8 @@
 # liuyingji.me
 
-> A Vue Project
+> 个人博客系统开发。
 
-## Build Setup
+## 前端构建步骤
 
 ``` bash
 # install dependencies
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+(http://vuejs.github.io/vue-loader).
